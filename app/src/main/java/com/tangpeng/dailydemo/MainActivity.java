@@ -29,9 +29,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.rxjava:
 
 
-
-
-
                 startActivity(new Intent(this, RxjavaActivity.class));
                 break;
         }
